@@ -45,12 +45,12 @@ Install the required dependencies:
 Run the Flask app:
 
 - python app.py
-The API will be available at http://127.0.0.1:5000/api.
+- The API will be available at http://127.0.0.1:5000/api.
 
 Dependencies
 
 - Flask - A lightweight WSGI web application framework for Python.
 - pytz - A Python library for working with timezones.
 
-
-- If you're looking for talented Python developers, you can check out: https://hng.tech/hire/python-developers
+ 
+If you're looking for talented Python developers, you can check out: https://hng.tech/hire/python-developers
